@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://bit.ly/maucanais1" group-title="TABELA", NOME DO CANAL
+http://0.0.0.0
+
+#EXTINF:-1 group-title="Canais de Entreternimento" tvg-logo="http://crawler.mdcgate.com/iptv/logo/454.png",History Channel
+http://iptvip.com:25461/live/hXbb03DJ0Y/V2ZeJhEwFk/173.ts
+
+#EXTINF:-1 group-title="Canais de Entreternimento" tvg-logo="http://crawler.mdcgate.com/iptv/logo/1348.png",Discovery Channel
+http://iptvip.com:25461/live/hXbb03DJ0Y/V2ZeJhEwFk/329.ts
+
+#EXTINF:-1 group-title="Canais de Entreternimento" tvg-logo="http://crawler.mdcgate.com/iptv/logo/23050.png",Multishow
+http://iptvip.com:25461/live/hXbb03DJ0Y/V2ZeJhEwFk/300.ts
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://i.imgur.com/NWk646Z.png" group-title="VARIEDADES" , COMEDY CENTRAL
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images1.folha.com.br/livraria/images/b/0/1204606-350x360.png" group-title="VER TV",Todo mundo odeia o Cris
+http://apk26.futeboltvgratis.com/live/10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",TNT EI
+http://apk25.futeboltvgratis.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Fox Sports
+http://apk25.futeboltvgratis.com:8081/live/4/playlist.m3u8
